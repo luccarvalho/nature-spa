@@ -158,4 +158,21 @@ nav ul li a:hover {
 #sobre .sobre-texto p {
   margin-top: 5px;
   color: #884a39;
+}
+
+footer {
+  background-color: #f9e0bb;
+  color: #884a39;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-weight: bold;
+  padding: 0 24px;
+  bottom: 0;
+  height: 60px;
+  width: 100%;
+  box-sizing: border-box;
+}
+footer img {
+  color: red;
 }/*# sourceMappingURL=style.css.map */
