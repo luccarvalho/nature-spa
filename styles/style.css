@@ -131,4 +131,31 @@ nav ul li a:hover {
 }
 #cupom button:hover {
   background-color: #884a39;
+}
+
+#sobre {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: 5px;
+}
+#sobre .sobre-texto {
+  padding: 3rem;
+  background-color: rgba(216, 180, 248, 0.4);
+  border-radius: 45px;
+}
+#sobre .sobre-texto h3 {
+  color: #884a39;
+  font-size: 1.2rem;
+}
+#sobre .sobre-texto h4 {
+  color: #c38154;
+  font-size: 1rem;
+}
+#sobre .sobre-texto p {
+  margin-top: 5px;
+  color: #884a39;
 }/*# sourceMappingURL=style.css.map */
