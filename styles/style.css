@@ -171,8 +171,9 @@ footer {
   bottom: 0;
   height: 60px;
   width: 100%;
+  box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.5);
   box-sizing: border-box;
 }
-footer img {
-  color: red;
+footer a {
+  text-decoration: none;
 }/*# sourceMappingURL=style.css.map */
