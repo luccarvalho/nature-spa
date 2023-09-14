@@ -1,7 +1,7 @@
 <h1 align="center">Nature Spa</h1>
 
 <div align="center">
-  <img width="600" src="" alt="Gif de apresentação do projeto">
+  <img width="600" src="imagens/nature-spa_to_readme.gif" alt="Gif de apresentação do projeto">
 </div>
 
 ## Descrição e objetivo do projeto
@@ -19,4 +19,4 @@ Utilizando variáveis, classes aninhadas, partial de arquivos, importação, mix
 
 ## :link: Acesso ao projeto
 
-Você pode acessar o deploy do projeto na Vercel clicando [aqui]().
+Você pode acessar o deploy do projeto na Vercel clicando [aqui](https://nature-spa.vercel.app/).
